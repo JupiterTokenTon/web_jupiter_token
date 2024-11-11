@@ -155,7 +155,7 @@ Error generating stack: `+l.message+`
  * React Router v6.28.0
  *
  * Copyright (c) Remix Software Inc.
- *
+ * web_jupiter_token
  * This source code is licensed under the MIT license found in the
  * LICENSE.md file in the root directory of this source tree.
  *
@@ -392,7 +392,7 @@ Error generating stack: `+l.message+`
     color: white;
     font-size: 20px;
     margin-bottom: 100px;
-  `,v.jsx(v.Fragment,{children:v.jsx(e,{children:v.jsx(n,{children:"11.11.2024 20:00 UTC +3"})})})},Q0=()=>{const[e,t]=P.useState(0);return v.jsxs(z0,{children:[v.jsxs(M0,{children:[v.jsx(qa,{to:"/kjsdfgsedo8xcvl/givers",children:v.jsx(tc,{isActive:e===0,onClick:()=>t(0),children:"GIVERS"})}),v.jsx(qa,{to:"/kjsdfgsedo8xcvl/???",children:v.jsx(tc,{isActive:e===1,onClick:()=>t(1),children:"???"})})]}),v.jsxs(C0,{children:[v.jsx(hu,{path:"/kjsdfgsedo8xcvl/givers",element:v.jsx(F0,{})}),v.jsx(hu,{path:"/kjsdfgsedo8xcvl/???",element:v.jsx(U0,{})})]})]})},W0=()=>{const e=G.div`
+  `,v.jsx(v.Fragment,{children:v.jsx(e,{children:v.jsx(n,{children:"11.11.2024 20:00 UTC +3"})})})},Q0=()=>{const[e,t]=P.useState(0);return v.jsxs(z0,{children:[v.jsxs(M0,{children:[v.jsx(qa,{to:"/web_jupiter_token/givers",children:v.jsx(tc,{isActive:e===0,onClick:()=>t(0),children:"GIVERS"})}),v.jsx(qa,{to:"/web_jupiter_token/???",children:v.jsx(tc,{isActive:e===1,onClick:()=>t(1),children:"???"})})]}),v.jsxs(C0,{children:[v.jsx(hu,{path:"/web_jupiter_token/givers",element:v.jsx(F0,{})}),v.jsx(hu,{path:"/web_jupiter_token/???",element:v.jsx(U0,{})})]})]})},W0=()=>{const e=G.div`
     width: 344px;
     margin: 0 auto;
   `,t=G.p`
